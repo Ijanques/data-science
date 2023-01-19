@@ -48,7 +48,7 @@ sample(c(1:1000),1)
 amostras sistematicas
 
 ```{r}
-#install.packages("TeachingSampling")
+install.packages("TeachingSampling")
 library("TeachingSampling")
 ```
 
@@ -67,7 +67,7 @@ amostrairis
 AMOSTRAGEM ESTRATIFICADA
 
 ```{r}
-#install.packages("sampling")
+install.packages("sampling")
 library("sampling")
 ```
 estabelecendo a proporção
@@ -129,7 +129,7 @@ Omitindo os warnings
 ```{r}
 options(warn = -1)
 
-#install.packages("semTools")
+install.packages("semTools")
 library("semTools")
 ```
 Inicializando vetor
